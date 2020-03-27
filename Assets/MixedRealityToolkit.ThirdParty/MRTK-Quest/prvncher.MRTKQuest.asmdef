@@ -2,7 +2,7 @@
     "name": "prvncher.MRTKQuest",
     "references": [
         "Microsoft.MixedReality.Toolkit",
-        "Oculus.VR"
+        "Oculus"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
@@ -16,5 +16,6 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": []
 }
